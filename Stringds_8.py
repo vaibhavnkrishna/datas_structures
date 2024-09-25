@@ -1,0 +1,16 @@
+o=ord("A")
+print(o)
+'''output
+65
+'''
+o=ord("E")
+print(o)
+'''output
+65
+69
+'''
+o=ord("e")
+print(o)
+'''output
+101
+'''

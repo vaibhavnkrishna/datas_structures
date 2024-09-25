@@ -1,0 +1,4 @@
+users/dell>E:
+E:/>mkdir git
+E:/>cd git
+E:/git>git clone

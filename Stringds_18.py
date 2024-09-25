@@ -1,0 +1,10 @@
+s1="python"
+s2="django"
+s3=s1+s2
+s4=s1.join(s2)
+print(s3)
+print(s4)
+'''output
+pythondjango
+dpythonjpythonapythonnpythongpythono
+'''

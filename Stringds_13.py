@@ -1,0 +1,9 @@
+s="institute"
+t=s.find("t")
+print(t)
+t1=s.rfind("t")
+print(t1)
+'''output
+3
+7
+'''
